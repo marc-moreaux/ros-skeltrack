@@ -7,6 +7,7 @@ ROS Wrapper for Skeltrack
     ```bash
     install libgirepository1.0-dev gobject-introspection gtk-doc-tools
     ./autogen.sh --enable-tests=no
+    make
     sudo make install
     ```
     
