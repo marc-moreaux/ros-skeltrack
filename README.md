@@ -3,7 +3,7 @@ ROS Wrapper for Skeltrack
 
 #Installation
 
-1. Install the Skeltrack library. If using Ubuntu 14.04:
+1. Install the [Skeltrack](https://github.com/joaquimrocha/Skeltrack) library. If using Ubuntu 14.04:
     ```bash
     install libgirepository1.0-dev gobject-introspection gtk-doc-tools
     ./autogen.sh --enable-tests=no
